@@ -1,5 +1,5 @@
 // export const PLAYER_URL = 'https://f4.fabricahost.com.br/paiquerefm?f=1560101508N54cef97cdda500df633ddb8edaace274'
 // export const PLAYER_URL = 'https://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8'
-// export const PLAYER_URL = 'https://f4.fabricahost.com.br/ouroverdefmcuritiba?f=1563113048Nffa0b2fb21a02cda3c61b2da12ff713c'
-export const PLAYER_URL = 'https://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8'
+export const PLAYER_URL = 'https://f4.fabricahost.com.br/ouroverdefmcuritiba?f=1563113048Nffa0b2fb21a02cda3c61b2da12ff713c'
+// export const PLAYER_URL = 'https://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8'
 export const PLAYER_TITLE = 'PaiquereFM'

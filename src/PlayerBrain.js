@@ -26,7 +26,7 @@ export default class PlayerBrain {
       id: 'main',
       url: PLAYER_URL,
       title: PLAYER_TITLE,
-      type: 'hls'
+     // type: 'hls'
     };
 
     await TrackPlayer.add([track]);
